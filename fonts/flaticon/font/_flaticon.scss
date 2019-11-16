@@ -1,6 +1,6 @@
     /*
     Flaticon icon font: Flaticon
-    Creation date: 11/06/2019 12:44
+    Creation date: 25/07/2019 12:04
     */
 
     @font-face {
@@ -37,16 +37,18 @@
   font-smoothing: antialiased;
     }
 
-    .flaticon-fit:before { content: "\f100"; }
-.flaticon-gym-1:before { content: "\f101"; }
-.flaticon-gym:before { content: "\f102"; }
-.flaticon-vegetables:before { content: "\f103"; }
-.flaticon-fruit-juice:before { content: "\f104"; }
-.flaticon-stationary-bike:before { content: "\f105"; }
+    .flaticon-piggy-bank:before { content: "\f100"; }
+.flaticon-wallet:before { content: "\f101"; }
+.flaticon-file:before { content: "\f102"; }
+.flaticon-locked:before { content: "\f103"; }
+.flaticon-bed:before { content: "\f104"; }
+.flaticon-bathtub:before { content: "\f105"; }
+.flaticon-floor-plan:before { content: "\f106"; }
     
-    $font-Flaticon-fit: "\f100";
-    $font-Flaticon-gym-1: "\f101";
-    $font-Flaticon-gym: "\f102";
-    $font-Flaticon-vegetables: "\f103";
-    $font-Flaticon-fruit-juice: "\f104";
-    $font-Flaticon-stationary-bike: "\f105";
+    $font-Flaticon-piggy-bank: "\f100";
+    $font-Flaticon-wallet: "\f101";
+    $font-Flaticon-file: "\f102";
+    $font-Flaticon-locked: "\f103";
+    $font-Flaticon-bed: "\f104";
+    $font-Flaticon-bathtub: "\f105";
+    $font-Flaticon-floor-plan: "\f106";
